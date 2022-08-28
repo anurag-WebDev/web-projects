@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: darkgrey;
+  height: 5rem;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.header-Title {
+  padding-top: 1rem;
+  padding-left: 1rem;
+  padding-bottom: 1rem;
+  font-weight: 600;
+  font-family: fantasy;
+}
+
+.video-Player {
+  padding: "1rem";
+  height: "50vh";
+  display: "flex";
+  justify-content: center;
+}
